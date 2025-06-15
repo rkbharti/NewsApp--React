@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-router-dom": "^7.6.2",
+    "react-top-loading-bar": "^3.0.2"
+  }
+}
